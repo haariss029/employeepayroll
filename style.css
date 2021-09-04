@@ -1,0 +1,26 @@
+.navbar a:hover {
+    color: black;
+    background-color: gray;
+  }
+
+  .nav-link{
+      color: aliceblue;
+  }
+  
+  .thumbnail {
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius: 0;
+  }
+  
+
+  
+  .bg-grey {
+    background-color: #f6f6f6;
+  }
+
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+  

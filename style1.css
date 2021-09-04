@@ -1,0 +1,28 @@
+h1{
+    color: darkblue;
+    text-align: center;
+    margin-top: 10%;
+}
+#id{
+
+
+color: darkcyan;
+text-align: center;
+
+
+
+}
+a:hover{
+border:  7px outset coral;
+text-decoration: none;
+color:crimson
+}
+
+h1:hover{
+text-decoration: darkblue;
+
+}
+
+a{
+    text-align-last: center;
+}
